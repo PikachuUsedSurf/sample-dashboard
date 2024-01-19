@@ -52,3 +52,4 @@ cardData.forEach(data => {
 
   cardsContainer.appendChild(cardElement);
 });
+
